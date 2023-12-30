@@ -1,0 +1,19 @@
+
+---
+
+© 2023 Yash Kashte
+
+All Rights Reserved.
+
+MATH_AI_Solver is a groundbreaking mathematical problem-solving solution designed to simplify the world of mathematics. This innovative software is the result of extensive research and development, combining cutting-edge artificial intelligence algorithms with a user-friendly interface to enhance the way we approach mathematical challenges.
+
+Unauthorized copying, distribution, or reproduction of any part of MATH_AI_Solver is strictly prohibited. This includes its software, documentation, and all related materials. Any infringement of our intellectual property will be subject to legal action.
+
+MATH_AI_Solver is a registered trademark of Yash Kashte, a student at A. C. Patil College of Engineering, Kharghar, Navi Mumbai. We are committed to protecting our intellectual property rights. For licensing and partnership inquiries, please contact us:
+
+Email: Yashkashte505@gmail.com
+GitHub: Yashkashte5
+
+Thank you for your support and respect for our work. Together, we can revolutionize the world of mathematics with MATH_AI_Solver.
+
+---
